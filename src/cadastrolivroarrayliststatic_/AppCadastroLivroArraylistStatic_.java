@@ -78,6 +78,7 @@ public class AppCadastroLivroArraylistStatic_ {
                     break;
                     
                 case 7:
+                    System.out.println("Encerrando...");
                     
                     break;
                     
